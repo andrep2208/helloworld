@@ -1,28 +1,20 @@
-import helloworld.Account;
+import java.util.Scanner;
 
 public class HelloWorld{
 	
 	public static void main(String[] args) {
-		// Create account object for John
-		Account johnAccount = new Account();
-		// Create account object for Mary
-		Account maryAccount = new Account();
+		Scanner scanner = new Scanner(System.in);
+		System.out.println("What is your first name");
+		String firstName = scanner.next();
 		
-		// Set the account fee
-		Account.fee = 12.40;
+		System.out.println("What is your last name");
+		String lastName = scanner.next();
 		
-		// Display account fees
-		System.out.println("John's fee: " + johnAccount.fee);
-		System.out.println("Mary's fee: " + maryAccount.fee);
-		
-		// Change account fee
-		Account.fee = 6.20;
-		
-		// Display account fees again
-		System.out.println("John's fee: " + johnAccount.fee);
-		System.out.println("Mary's fee: " + maryAccount.fee);
+		System.out.println("Hold old are you ?");
+		int age = scanner.nextInt();
 		
 		
+		System.out.println("Hello " + firstName + " " + lastName + "\nYou are " + age + " years old");
 		
 		
 	}
