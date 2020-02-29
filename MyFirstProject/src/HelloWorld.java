@@ -1,23 +1,28 @@
+import helloworld.Account;
 
-import java.util.Scanner;
-
-public class HelloWorld {
-
+public class HelloWorld{
+	
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
-		Scanner scanner = new Scanner(System.in);
+		// Create account object for John
+		Account johnAccount = new Account();
+		// Create account object for Mary
+		Account maryAccount = new Account();
 		
-		System.out.println("what is your first number");
+		// Set the account fee
+		Account.fee = 12.40;
 		
-		int a = scanner.nextInt();
+		// Display account fees
+		System.out.println("John's fee: " + johnAccount.fee);
+		System.out.println("Mary's fee: " + maryAccount.fee);
 		
-		System.out.println("what is your second numner");
+		// Change account fee
+		Account.fee = 6.20;
 		
-		int b = scanner.nextInt();
+		// Display account fees again
+		System.out.println("John's fee: " + johnAccount.fee);
+		System.out.println("Mary's fee: " + maryAccount.fee);
 		
-		int c = a + b;
 		
-		System.out.println("your total is " + c);
 		
 		
 	}
@@ -26,3 +31,5 @@ public class HelloWorld {
 
 
 }
+
+
