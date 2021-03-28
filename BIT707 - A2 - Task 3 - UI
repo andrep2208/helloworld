@@ -1,9 +1,12 @@
-<mxfile host="app.diagrams.net" modified="2021-03-28T09:19:23.139Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36" etag="gPliDLNzn5NKkYoIx08W" version="14.5.3" type="github">
+<mxfile host="app.diagrams.net" modified="2021-03-28T09:21:32.614Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36" etag="q44A50Ufwd6QgCsVDgIZ" version="14.5.3" type="github">
   <diagram name="Page-1" id="f1b7ffb7-ca1e-a977-7cf5-a751b3c06c05">
-    <mxGraphModel dx="1422" dy="834" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="#ffffff" math="0" shadow="0">
+    <mxGraphModel dx="981" dy="575" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="#ffffff" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="yPHl7Xsn5F9JppSVElHl-76" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="yPHl7Xsn5F9JppSVElHl-64" target="yPHl7Xsn5F9JppSVElHl-75">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="yPHl7Xsn5F9JppSVElHl-64" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="70" y="40" width="300" height="190" as="geometry" />
         </mxCell>
@@ -24,6 +27,18 @@
         </mxCell>
         <mxCell id="yPHl7Xsn5F9JppSVElHl-74" value="OK" style="rounded=1;html=1;shadow=0;dashed=0;whiteSpace=wrap;fontSize=10;fillColor=#666666;align=center;strokeColor=#4D4D4D;fontColor=#ffffff;" vertex="1" parent="1">
           <mxGeometry x="167" y="190" width="105.5" height="16.88" as="geometry" />
+        </mxCell>
+        <mxCell id="yPHl7Xsn5F9JppSVElHl-75" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="530" y="40" width="300" height="190" as="geometry" />
+        </mxCell>
+        <mxCell id="yPHl7Xsn5F9JppSVElHl-77" value="Menu" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="655" y="60" width="50" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="yPHl7Xsn5F9JppSVElHl-78" value="All Tasks" style="rounded=1;html=1;shadow=0;dashed=0;whiteSpace=wrap;fontSize=10;fillColor=#666666;align=center;strokeColor=#4D4D4D;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="570" y="130" width="105.5" height="40.94" as="geometry" />
+        </mxCell>
+        <mxCell id="yPHl7Xsn5F9JppSVElHl-79" value="Weekly Calendar Report" style="rounded=1;html=1;shadow=0;dashed=0;whiteSpace=wrap;fontSize=10;fillColor=#666666;align=center;strokeColor=#4D4D4D;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="690" y="130" width="105.5" height="40.94" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
