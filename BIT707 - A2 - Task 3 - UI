@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-03-28T09:30:42.955Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36" etag="lyglJx9mFJDRk_8ftcGC" version="14.5.3" type="github">
+<mxfile host="app.diagrams.net" modified="2021-03-28T09:31:10.583Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36" etag="SAgaU1cAEfYGJbjaUNaL" version="14.5.3" type="github">
   <diagram name="Page-1" id="f1b7ffb7-ca1e-a977-7cf5-a751b3c06c05">
-    <mxGraphModel dx="677" dy="397" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" background="#ffffff" math="0" shadow="0">
+    <mxGraphModel dx="981" dy="575" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" background="#ffffff" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -57,14 +57,8 @@
         <mxCell id="yPHl7Xsn5F9JppSVElHl-87" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="950" y="290" width="300" height="190" as="geometry" />
         </mxCell>
-        <mxCell id="yPHl7Xsn5F9JppSVElHl-88" value="Menu" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="1075" y="310" width="50" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="yPHl7Xsn5F9JppSVElHl-89" value="All Tasks" style="rounded=1;html=1;shadow=0;dashed=0;whiteSpace=wrap;fontSize=10;fillColor=#666666;align=center;strokeColor=#4D4D4D;fontColor=#ffffff;" vertex="1" parent="1">
-          <mxGeometry x="990" y="380" width="105.5" height="40.94" as="geometry" />
-        </mxCell>
-        <mxCell id="yPHl7Xsn5F9JppSVElHl-90" value="Weekly Calendar Report" style="rounded=1;html=1;shadow=0;dashed=0;whiteSpace=wrap;fontSize=10;fillColor=#666666;align=center;strokeColor=#4D4D4D;fontColor=#ffffff;" vertex="1" parent="1">
-          <mxGeometry x="1110" y="380" width="105.5" height="40.94" as="geometry" />
+        <mxCell id="yPHl7Xsn5F9JppSVElHl-88" value="Calendar" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="960" y="290" width="50" height="40" as="geometry" />
         </mxCell>
         <mxCell id="yPHl7Xsn5F9JppSVElHl-93" value="Weekly Calendar Report" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="1">
           <mxGeometry x="602.754761904762" y="380" as="geometry">
