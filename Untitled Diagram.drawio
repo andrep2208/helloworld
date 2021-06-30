@@ -1,1 +1,40 @@
-<mxfile host="app.diagrams.net" modified="2021-06-30T23:32:04.508Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36" version="14.6.0" etag="fFhYpFfVuUbPPF01gy9K" type="github"><diagram id="wxwdOOfYff3dohQMdXHA">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-06-30T23:38:45.070Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36" etag="3M3jLCUF2pbiLVlRJrw1" version="14.6.0" type="github">
+  <diagram id="wxwdOOfYff3dohQMdXHA" name="Page-1">
+    <mxGraphModel dx="1185" dy="662" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="m-1uC_l2-zd1EJGY06N7-2" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/general-office/91/General_Office_32-128.png" vertex="1" parent="1">
+          <mxGeometry x="105" y="240" width="110" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="m-1uC_l2-zd1EJGY06N7-3" value="HRC" style="text;html=1;strokeColor=#6c8ebf;fillColor=#dae8fc;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeWidth=5;fontStyle=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="117.5" y="210" width="85" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="m-1uC_l2-zd1EJGY06N7-6" value="SnapHire" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;strokeWidth=5;align=center;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="170" y="450" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="m-1uC_l2-zd1EJGY06N7-7" value="Techone" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;strokeWidth=5;align=center;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="30" y="450" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="m-1uC_l2-zd1EJGY06N7-8" value="" style="endArrow=classic;html=1;fontSize=16;fontColor=#000000;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="m-1uC_l2-zd1EJGY06N7-2" target="m-1uC_l2-zd1EJGY06N7-7">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="495" y="430" as="sourcePoint" />
+            <mxPoint x="545" y="380" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="m-1uC_l2-zd1EJGY06N7-9" value="" style="endArrow=classic;html=1;fontSize=16;fontColor=#000000;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="m-1uC_l2-zd1EJGY06N7-2" target="m-1uC_l2-zd1EJGY06N7-6">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="170" y="360" as="sourcePoint" />
+            <mxPoint x="100" y="460" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="m-1uC_l2-zd1EJGY06N7-10" value="Create jobs details" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=13;fontColor=#000000;strokeWidth=1;" vertex="1" parent="1">
+          <mxGeometry y="370" width="130" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="m-1uC_l2-zd1EJGY06N7-11" value="Create candidate and put in bucket" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=13;fontColor=#000000;strokeWidth=1;" vertex="1" parent="1">
+          <mxGeometry x="190" y="380" width="130" height="40" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
