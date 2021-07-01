@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-07-01T00:59:21.406Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36" etag="B6fr_k1xWbGB9OLFHV0A" version="14.6.0" type="github">
+<mxfile host="app.diagrams.net" modified="2021-07-01T01:03:17.903Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36" etag="f4eN6jZuIMyF-i-fU86-" version="14.6.0" type="github">
   <diagram id="prtHgNgQTEPvFCAcTncT" name="Page-1">
-    <mxGraphModel dx="1673" dy="934" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="2336" background="#ffffff" math="0" shadow="0">
+    <mxGraphModel dx="1551" dy="794" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="2336" background="#ffffff" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -65,7 +65,7 @@
             <mxPoint x="795" y="377" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="jQAMu5JfyhxZcwMKW61z-54" value="IMS" style="swimlane;startSize=20;fillColor=#fff2cc;strokeColor=#d6b656;fontSize=18;" vertex="1" parent="jQAMu5JfyhxZcwMKW61z-41">
+        <mxCell id="jQAMu5JfyhxZcwMKW61z-54" value="IMS" style="swimlane;startSize=20;fillColor=#fa6800;strokeColor=#C73500;fontSize=18;fontColor=#ffffff;" vertex="1" parent="jQAMu5JfyhxZcwMKW61z-41">
           <mxGeometry x="662" width="164" height="868" as="geometry" />
         </mxCell>
         <mxCell id="jQAMu5JfyhxZcwMKW61z-66" value="Scheduled Job to import data" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="jQAMu5JfyhxZcwMKW61z-54">
